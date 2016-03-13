@@ -4,7 +4,8 @@ R package (wrap up) to libpostal (https://github.com/openvenues/libpostal) for f
 Usage
 -----
 
-<p align="center">![](http://www.datactuariat.fr/Rpostal2.gif)</p>
+->![](http://www.datactuariat.fr/Rpostal2.gif)<-
+
 
 
 ```R
