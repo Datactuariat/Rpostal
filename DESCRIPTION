@@ -1,0 +1,13 @@
+Package: Rpostal
+Title: R interface to libpostal, a C library for fast international street
+    address parsing and normalization.
+Version: 0.0.0.9000
+Authors@R: person("Benjamin", "Le Boucher", email = "leboucher.ben@gmail.com", role = c("aut", "cre"))
+Description: R interface to libpostal, a C library for fast international street
+    address parsing and normalization.
+Depends:
+    R (>= 3.2.3)
+Imports: jsonlite    
+License: MIT
+LazyData: true
+RoxygenNote: 5.0.1.9000
