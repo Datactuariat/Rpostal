@@ -1,10 +1,10 @@
 # Rpostal
-R package (wrap up) to libpostal for fast international address parsing/normalization
+R package (wrap up) to libpostal (https://github.com/openvenues/libpostal) for fast international address parsing/normalization
 
 Usage
 -----
 
-<center>![](http://www.datactuariat.fr/Rpostal.gif)</center>
+![](http://www.datactuariat.fr/Rpostal2.gif)
 
 
 ```R
