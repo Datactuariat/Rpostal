@@ -4,6 +4,9 @@ R package (wrap up) to libpostal for fast international address parsing/normaliz
 Usage
 -----
 
+<center>![](http://www.datactuariat.fr/Rpostal.gif)</center>
+
+
 ```R
 # install from github
 devtools::install_github("datactuariat/Rpostal")
