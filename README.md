@@ -43,7 +43,8 @@ sudo brew install snappy autoconf automake libtool pkg-config
 git clone https://github.com/openvenues/libpostal
 cd libpostal
 ./bootstrap.sh
-./configure --datadir=[...some dir with a few GB of space...]
+./configure
+# or : ./configure --datadir=[...some dir with a few GB of space...] see https://github.com/Datactuariat/Rpostal/issues/1#issuecomment-248175897
 make
 sudo make install
 
