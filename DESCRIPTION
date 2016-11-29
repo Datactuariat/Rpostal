@@ -6,7 +6,7 @@ Authors@R: person("Benjamin", "Le Boucher", email = "leboucher.ben@gmail.com", r
 Description: R interface to libpostal, a C library for fast international street
     address parsing and normalization.
 Depends:
-    R (>= 3.2.3)
+    R (>= 3.2.1)
 Imports: jsonlite    
 License: MIT
 LazyData: true
